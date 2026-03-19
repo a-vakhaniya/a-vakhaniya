@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет, я Александр 👋
 
-<!--
-**a-vakhaniya/a-vakhaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специалист на стыке бизнеса и технологий.
+10 лет в digital → AI Automation & No-code.
 
-Here are some ideas to get you started:
+## 🤖 Что делаю
+- Строю автоматизации на Make.com и Claude API
+- Промпт-инжиниринг под реальные задачи
+- Разрабатываю AI-инструменты для бизнеса и медицины
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Мои проекты
+
+| Проект | Описание |
+|--------|----------|
+| [ai-knowledge-system](https://github.com/a-vakhaniya/ai-knowledge-system) | Личная AI-система: Obsidian + Claude Projects |
+| [form-notifier](https://github.com/a-vakhaniya/form-notifier) | Автоматизация Make.com: Webhook → Telegram + Sheets |
+| [assistant-site](https://github.com/a-vakhaniya/assistant-site) | Сайт личного ассистента на HTML/CSS |
+
+## 🛠 Стек
+Make.com · Claude API · Telegram Bot API · 
+Google Sheets · Git · HTML/CSS · Obsidian
+
+## 📫 Контакты
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vakhaniya-alexander/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/avakhaniya)
+```
+
+---
+
+Commit message:
+```
+Add profile README
