@@ -14,11 +14,11 @@
 |--------|----------|
 | [ai-knowledge-system](https://github.com/a-vakhaniya/ai-knowledge-system) | Личная AI-система: Obsidian + Claude Projects |
 | [form-notifier](https://github.com/a-vakhaniya/form-notifier) | Автоматизация Make.com: Webhook → Telegram + Sheets |
-| [assistant-site](https://github.com/a-vakhaniya/assistant-site) | Сайт личного ассистента на HTML/CSS |
+| [massash.com](https://github.com/a-vakhaniya/form-notifier) | Автоматизация заявок для massash.com: Webhook → Telegram + Sheets |
 
 ## 🛠 Стек
-Make.com · Claude API · Telegram Bot API · 
-Google Sheets · Git · HTML/CSS · Obsidian
+Make.com · n8n · Claude API · Telegram Bot API ·
+Google Sheets · Git · HTML/CSS · Obsidian · Google AI
 
 ## 📫 Контакты
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vakhaniya-alexander/)
